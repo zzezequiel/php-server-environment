@@ -1,4 +1,4 @@
-`#php` `#basics` `#master-in-software-development`
+`#php` `#server` `#master-in-software-development`
 
 # PHP Server Environment <!-- omit in toc -->
 
